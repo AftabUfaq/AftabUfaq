@@ -1,9 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 # 💫 About Me:
 Hi there 👋, I'm AftabUfaq<br>Full-Stack Web Developer | Code Enthusiast | Problem Solver<br>Welcome to my GitHub profile! 🚀 I'm a passionate full-stack web developer, dedicated to creating robust, scalable, and efficient web solutions. My journey revolves around crafting seamless web experiences and continuously improving my coding skills to become an expert in web development.
