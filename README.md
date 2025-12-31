@@ -10,7 +10,7 @@ Hi there 👋, I'm AftabUfaq<br>Full-Stack Web Developer | Code Enthusiast | Pro
 
 # 📊 GitHub Stats:
 ![](https://github-tropy-seven.vercel.app/stats)(https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=haideryzai&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AftabUfaq&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haideryzai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
